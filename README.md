@@ -1,2 +1,2 @@
-# cheat_algolab
-Repo for cheating in today's algo lab endsem
+# algolab
+Repo for all the codes in algorithm design and analysis lab
